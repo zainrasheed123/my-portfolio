@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: hsla(0, 0%, 69%, 0.616);
+    color: #333;
+}
+
+header {
+    background-color: #0c0a0afd;
+    color: rgba(62, 206, 231, 0.815);
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.job,
+.education {
+    margin-bottom: 20px;
+}
+
+.date {
+    color: #666;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
